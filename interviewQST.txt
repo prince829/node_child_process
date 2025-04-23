@@ -1,0 +1,131 @@
+JS : -
+Symbol Data Type
+Hash Table
+Weak Map,Weak Set, Map, Set
+OPPS realted questions(interface, abstract class)
+promise vs obserable vs subject
+filter, include, replace, for vs foreach vs map, type casting,
+call vs bind vs apply
+function vs arrow function
+shadowing
+closure
+deep copy shallow copy
+asyncronous
+interface, why use interface over types, inerface vs abstract class
+
+
+
+Angular :-
+What is bootstraping
+what is the entry point, what is index.html
+JIT & AOT
+Lazy Loading
+dependency injection
+how angular manages state ?
+What is view encapsulation in angular ?
+Explain change detection strategy in angular
+Why we need to use different change detection strategy ?
+what is detectChanges & markforcheck in angular ?
+pipe, custom pipe, pure pipe, impure pipe with example
+directive, custom directive
+Obserable, observer, all methods
+sub, all kind of subjects, sub methods
+Promise
+promise vs observerable vs subject
+parent to child data pass
+child to parent data pass
+to unrelated component data pass
+interceptor, auth gurad, lazy loading, routing ( forchildroutes r akta ki thake)
+decorator
+http client
+config.ts
+main.ts
+injector
+angular 18 & 17 new features
+
+
+Node :-
+authorization vs authentication
+event loop
+if node is multi threaded how it handles data intregrity
+can we spwan multiple threads in a single process
+child process
+worker threads
+status codes
+next in middlewares
+is node synchronous or asynchronous
+is node single or multi threaded
+setImmidiate and nexttick, which will print first
+setImmidiate and setTimeout, which will print first
+global event handling
+body-parserser
+What is nodejs
+What is hoisting and first class function? 
+Explain the lifecycle of nodejs 
+Could you define modules in nodejs
+What is the diffrence between multer and multer-s3 
+How we  resize an image in nodejs 
+So what is the diffrence b/w $group and $project in mongodb 
+What is the another way to do pagination rather than aggregate-paginate 
+What is the limitation of $facet and how would you get rid of that
+what the one time bson limit and result limit of aggregation and how would you get rid of that
+How do you handle cache on nodejs server 
+How do we define customized .env file 
+What is worker thread in nodejs 
+What is cluster in nodejs . 
+Have your any idea about Sparse Index
+how would you handle default server cache
+what is mongoose and what is the work of lean(),exec() method in mongoose and where I can use them 
+what are the uses of $in,$ceil, $function, $preservenullandEmptyArray
+passport authentication, event emitter,
+Event Loop
+
+
+MONGO :-
+primary key, Foreign Key
+Populate Function
+case in quries
+mongo basic quries
+how to do pagination
+populate and lookup difference
+namespace
+default port
+virtuals
+journal
+by using mongoose are we really schemaless?? if not then are we not at disadvantage ?
+
+
+
+SQL :-
+SQL basic quries
+Drop vs Trunk vs TRUNCATE  vs delete
+view function
+case in quries
+Joinings
+What is normalization and denormalization 
+How would you handle pagination in mysql
+What is primary key and how would you make it auto increment,UNIQUE
+What is foregin key
+How would you connect 2 table in mysql 
+What is difference between char and varchar
+What is diffrence between ENUM and SET
+What is IN opreator
+What is like opreator
+What is distinct
+How will you update data in mysql 
+What is commit and rollback
+Let's assume you are update a col of table without setting any primary key then what will happen
+What is inner join
+What is left join
+What id GROUP BY clause
+default port
+
+
+
+Design Patterns
+
+
+FOR Loop Architecture
+https://www.youtube.com/watch?v=Nzokr6Boeaw
+
+https://javascript.info/
